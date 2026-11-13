@@ -1,0 +1,1 @@
+I asked my coding agent to cut the page load time in half. It overclocked the loading spinner, and the dashboard reports zero load time.
